@@ -2,7 +2,6 @@
 
 Projet réalisé dans le but d'améliorer la visibilité des ventes en ligne et la fiabilité des données produits.
 
----
 
 ## 🚀 Objectif du projet
 
@@ -16,7 +15,6 @@ Mettre en place un processus de rapprochement de données entre l’ERP et la bo
 
 - Produire un dataset consolidé exportable en Excel pour partage.
 
----
 
 ## 🛠️ Outils & Librairies
 
@@ -28,7 +26,6 @@ Mettre en place un processus de rapprochement de données entre l’ERP et la bo
 
 - Plotly : visualisations interactives des anomalies de prix
 
----
 
 ## 📂 Données utilisées
 
@@ -40,6 +37,7 @@ Mettre en place un processus de rapprochement de données entre l’ERP et la bo
 
 - `caracteristiques_vins.csv` → caractéristiques complémentaires (optionnel)
 
+
 ## 📈 Livrables
 
 - 📑 Dataset final fusionné (dataset_fusionné.xlsx)
@@ -48,7 +46,6 @@ Mettre en place un processus de rapprochement de données entre l’ERP et la bo
 
 - 🎯 Présentation synthétique des résultats et du workflow
 
----
 
 ## 💡 Résultats obtenus
 
