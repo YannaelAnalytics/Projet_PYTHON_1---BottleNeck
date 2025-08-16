@@ -16,7 +16,7 @@
 
 | Champ                     | Type    | Contrainte   | Description                                                                                                |
 |---------------------------|---------|--------------|------------------------------------------------------------------------------------------------------------|
-| `product_id`              | INTEGER | Clé Primaire | Identifiant unique pour chaque produit.                                                                    |
+| `product_id`              | INTEGER | Clé Primaire | Identifiant unique pour chaque produit                                                                     |
 | `onsale_web`              | INTEGER |              | Nombre d'article du produit disponible sur la boutique web                                                 |
 | `price`                   | FLOAT   |              | Prix de l'article                                                                                          |
 | `stock_quantity`          | INTEGER |              | Quantité du produit associé dans le stock de la boutique                                                   | | `stock_status`            | OBJECT  |              | Statut des stocks pour le `product_id` concerné                                                            |
