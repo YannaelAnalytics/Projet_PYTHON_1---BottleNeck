@@ -1,7 +1,7 @@
 # 📊 Rapprochement ERP & Boutique en ligne
 
 Projet réalisé dans le but d'améliorer la visibilité des ventes en ligne et la fiabilité des données produits.
-
+<br></br>
 
 ## 🚀 Objectif du projet
 
@@ -15,6 +15,7 @@ Mettre en place un processus de rapprochement de données entre l’ERP et la bo
 
 - Produire un dataset consolidé exportable en Excel pour partage.
 
+<br></br>
 
 ## 🛠️ Outils & Librairies
 
@@ -30,7 +31,7 @@ Mettre en place un processus de rapprochement de données entre l’ERP et la bo
 
 - Chardet : identification de l'encodage csv
 
-
+<br></br>
 ## 📂 Données utilisées
 
 - `erp.xlsx` → références produits, prix, stock
@@ -38,7 +39,7 @@ Mettre en place un processus de rapprochement de données entre l’ERP et la bo
 - `web.xlsx` → informations produits et ventes en ligne
 
 - `caracteristiques_vins.csv` → caractéristiques complémentaires (optionnel)
-
+<br></br>
 ## 🧠 Méthodologie des analyses 
 
 ### Détermination des valeurs aberrantes
@@ -68,14 +69,14 @@ Mettre en place un processus de rapprochement de données entre l’ERP et la bo
 - On regarde la part du volume total pour chaque article et on regarde ceux qui y contribuent le plus.
 - On calcule ensuite le volume cumulé pour voir quels produits réalisent 80% des ventes en quantité.
 
-
+<br></br>
 ## 📈 Livrables
 
 - 📑 Dataset final fusionné (df_boutique_web.xlsx)
 
 - 📊 Notebook complet
   
-
+<br></br>
 ## 💡 Résultats obtenus
 
 - Consolidation des données ERP + Web + Caracteristiques_vins en une base unique
