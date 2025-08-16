@@ -1,6 +1,6 @@
 # 📘 Dictionnaire de données
 
-Le but du projet est de fusionner les tables "erp", "web" et "caracteristiques_vins" en une seule table, "df_boutique_web". Je fournis ici que le dictionnaire des données de la table finale :
+Le but du projet est de fusionner les tables "erp", "web" et "caracteristiques_vins" en une seule table, "df_boutique_web". Je ne fournis ici que le dictionnaire des données de la table finale :
 
 ## Table `df_boutique_web`
 
