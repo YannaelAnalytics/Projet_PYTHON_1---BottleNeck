@@ -46,14 +46,13 @@ Mettre en place un processus de rapprochement de données entre l’ERP et la bo
 - 📊 Exploration par la visualisation de données : interprétation de graphiques Boite à moustache de la répartition des prix
 <br></br>
 ![Boite à Moustache Prix](images/boxplot price.png)
-
+<br></br>
+<br></br>
 - 🧮 Exploration par l'utisation de méthodes statistique :
   
      - **Méthode du Z-Score** : mesure à quelle distance une valeur se trouve de la moyenne, exprimée en nombre d’écarts-types. Un z-score proche de 0 = valeur                                     proche de la moyenne. Un z-score élevé (positif ou négatif) = valeur anormalement éloignée, donc potentiellement une valeur                                         aberrante. La formule du z-score est **𝑧 = (𝑥−𝜇)/𝜎** où **x** = la valeur observée, **𝜇** = la moyenne de l’échantillon et **𝜎** =                                  l’écart-type. On interprète ensuite le résultat en fonction d'une courbe normale :
 <br></br>
-<br></br>
 ![Distribution du Z-Score sur loi normale](images/Distribution-du-score-z.png)
-<br></br>
 <br></br>
 <br></br>
      - **Identification par l'intervalle interquartile** : on calcule nos quartiles (Q1 et Q3) ainsi que notre interquartile (IQR), puis on calcule notre                                                                      **valeur_max** = q3 + (1.5 * iqr) et **notre valeur_min** = q1 - (1.5 * iqr). On regroupe ensuite en                                                                tant que valeurs aberrantes toutes les valeurs en dehors de l'intervalle [VMin ; VMax]. 
