@@ -44,7 +44,6 @@ Mettre en place un processus de rapprochement de données entre l’ERP et la bo
 <br></br>
 ![Boite à Moustache Prix](images/boxplot_price.png)
 <br></br>
-<br></br>
 - 🧮 Exploration par l'utisation de méthodes statistique :
   
      - **Méthode du Z-Score** : mesure à quelle distance une valeur se trouve de la moyenne, exprimée en nombre d’écarts-types. Un z-score proche de 0 = valeur                                     proche de la moyenne. Un z-score élevé (positif ou négatif) = valeur anormalement éloignée, donc potentiellement une valeur                                         aberrante. La formule du z-score est **𝑧 = (𝑥−𝜇)/𝜎** où **x** = la valeur observée, **𝜇** = la moyenne de l’échantillon et **𝜎** =                                  l’écart-type. On interprète ensuite le résultat en fonction d'une courbe normale :
