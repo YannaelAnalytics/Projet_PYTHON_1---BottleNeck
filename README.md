@@ -2,7 +2,6 @@
 
 Projet réalisé dans le but d'améliorer la visibilité des ventes en ligne et la fiabilité des données produits.
 <br></br>
-
 ## 🚀 Objectif du projet
 
 Mettre en place un processus de rapprochement de données entre l’ERP et la boutique en ligne afin de :
@@ -14,9 +13,7 @@ Mettre en place un processus de rapprochement de données entre l’ERP et la bo
 - Réaliser une analyse exploratoire des prix pour détecter d’éventuelles valeurs aberrantes.
 
 - Produire un dataset consolidé exportable en Excel pour partage.
-
 <br></br>
-
 ## 🛠️ Outils & Librairies
 
 - Jupyter Notebook : exploration et documentation du travail
@@ -30,7 +27,6 @@ Mettre en place un processus de rapprochement de données entre l’ERP et la bo
 - Numpy : calculs statistiques
 
 - Chardet : identification de l'encodage csv
-
 <br></br>
 ## 📂 Données utilisées
 
@@ -68,14 +64,12 @@ Mettre en place un processus de rapprochement de données entre l’ERP et la bo
 - On calcule le volume de vente par article et on classe par ordre décroissant.
 - On regarde la part du volume total pour chaque article et on regarde ceux qui y contribuent le plus.
 - On calcule ensuite le volume cumulé pour voir quels produits réalisent 80% des ventes en quantité.
-
 <br></br>
 ## 📈 Livrables
 
 - 📑 Dataset final fusionné (df_boutique_web.xlsx)
 
 - 📊 Notebook complet
-  
 <br></br>
 ## 💡 Résultats obtenus
 
