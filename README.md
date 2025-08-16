@@ -40,7 +40,7 @@ Mettre en place un processus de rapprochement de données entre l’ERP et la bo
 
 ### Détermination des valeurs aberrantes
 
-- 📊 Exploration par la visualisation de données : interprétation de graphiques Boite à moustache de la répartition des prix
+- 📊 Exploration par la visualisation de données : interprétation de graphiques boxplot de la répartition des prix
 <br></br>
 ![Boite à Moustache Prix](images/boxplot_price.png)
 <br></br>
